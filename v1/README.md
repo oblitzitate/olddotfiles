@@ -1,6 +1,6 @@
 # dotfiles
 
-![my setup](https://github.com/turing753/dotfiles/blob/master/Rice.jpg)
+![my setup](https://github.com/turing753/dotfiles/blob/master/v1/Rice.jpg)
 
 ## Additional stuff
 * [Tela-icon-theme] -The icon theme I am using
