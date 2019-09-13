@@ -1,6 +1,6 @@
 # dotfiles v2
 
-![my setup](https://github.com/turing753/dotfiles/blob/master/rice-2.jpg)
+![my setup](https://github.com/turing753/dotfiles/blob/master/rice-2.png)
 
 ## Additional stuff
 * I am using a variant of Vimix theme that I edited but it is only partially ready and currently only applied for GTK 3/2
