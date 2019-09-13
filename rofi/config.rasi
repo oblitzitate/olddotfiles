@@ -3,7 +3,7 @@ configuration {
 width: 25;
 lines: 10;
 columns: 1;
-font: "Roboto Medium 6";
+font: "Roboto Medium 9";
 bw: 0;
 location: 0;
 /*	padding: 5;*/
@@ -42,7 +42,7 @@ show-icons: true;
 hide-scrollbar: true;
 /*	fullscreen: false;*/
 fake-transparency: false;
-dpi: 400;
+dpi: 144;
 /*	threads: 0;*/
 /*	scrollbar-width: 8;*/
 /*	scroll-method: 0;*/
